@@ -1,0 +1,10 @@
+.Product{
+    border: 2px solid wheat;
+    margin-bottom: 14px;
+    /* padding: 0 5px 0 5px; */
+    border-radius: 10px;
+    margin-left: 15px;
+    width: 200px;
+    height: 160px;
+
+}
